@@ -51,3 +51,23 @@ h5{
 #menu a:hover{
     color: #5077bd;
 }
+
+th{
+  font-weight: 800;
+  background-color: #2695A6;
+  color           : #ffffff;
+}
+}
+
+table{
+  font-family: Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+
+table{
+  font-family    : Helvetica, sans-sarif;
+  border-collapse: collapse;
+  border-width   : 1px;
+  border-style   : solid;
+  border-color   : #2695A6;
+}
